@@ -5,6 +5,7 @@ image: "../../assets/cd5e6377-b213-4749-a47c-e9980eff7a0e.png"   # ← this is t
 image_alt: "Private Credit Coordination Bomb Thesis Graphic"
 layout: post
 date: 2026-03-10
+permalink: /2026-03-10/CoordBomb/
 ---
 
 # The 5% Coordination Bomb: How Private Credit’s Gates and 1% Volume Threshold Will Trigger Collapse Faster Than Any Default Cycle
