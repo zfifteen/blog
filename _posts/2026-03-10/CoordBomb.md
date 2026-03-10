@@ -1,13 +1,15 @@
 ---
 title: "The 5% Coordination Bomb: How Private Credit’s Gates and 1% Volume Threshold Will Trigger Collapse Faster Than Any Default Cycle"
 description: "Private credit doesn't break on defaults — it breaks on queues and clearing prices. The 5% redemption gate is a behavioral tripwire, and the 1% quarterly secondary-volume threshold is the real detonator. Full thesis + testable Q2 2026 prediction."
-image: "../assets/cd5e6377-b213-4749-a47c-e9980eff7a0e.png"   # ← this is the exact image X will use in the big preview card
+image: "../../assets/cd5e6377-b213-4749-a47c-e9980eff7a0e.png"   # ← this is the exact image X will use in the big preview card
 image_alt: "Private Credit Coordination Bomb Thesis Graphic"
+layout: post
+date: 2026-03-10
 ---
 
 # The 5% Coordination Bomb: How Private Credit’s Gates and 1% Volume Threshold Will Trigger Collapse Faster Than Any Default Cycle
 
-![cd5e6377-b213-4749-a47c-e9980eff7a0e.png](../assets/cd5e6377-b213-4749-a47c-e9980eff7a0e.png)
+![cd5e6377-b213-4749-a47c-e9980eff7a0e.png](../../assets/cd5e6377-b213-4749-a47c-e9980eff7a0e.png)
 
 In private credit, the 5% quarterly redemption cap is not a liquidity buffer -- it is a behavioral coordination device that, once publicly breached, turns investor fear into a self-executing trigger regardless of the actual credit quality of the underlying loans.
 
