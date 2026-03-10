@@ -150,7 +150,7 @@ feed:
 # =============================================================
 twitter:
   username: alltheputs
-  card: summary
+  card: summary_large_image
 
 social:
   name: "Big D"
