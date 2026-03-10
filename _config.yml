@@ -130,7 +130,6 @@ exclude:
   - .github
   - scripts
   - "*.sh"
-  - README.md    # remove this line if using jekyll-readme-index
 
 # =============================================================
 # INCLUDE (force Jekyll to process normally-ignored files)
