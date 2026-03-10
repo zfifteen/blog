@@ -30,3 +30,53 @@ img {
   height: auto;
   max-width: 100%;
 }
+
+.post-grid {
+  display: grid;
+  gap: 1.25rem;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  margin-top: 1rem;
+}
+
+.post-card {
+  background: #0a0a0a;
+  border: 1px solid #2f2f2f;
+  border-radius: 12px;
+  padding: 0.85rem;
+}
+
+.post-card-link {
+  display: block;
+  text-decoration: none;
+}
+
+.post-card img {
+  aspect-ratio: 16 / 9;
+  border-radius: 8px;
+  margin-bottom: 0.75rem;
+  object-fit: cover;
+  width: 100%;
+}
+
+.post-card h3 {
+  font-size: 1.25rem;
+  line-height: 1.35;
+  margin: 0 0 0.5rem;
+}
+
+.post-card p {
+  color: #d8d8d8 !important;
+  font-size: 0.95rem;
+  line-height: 1.55;
+  margin: 0 0 0.65rem;
+}
+
+.post-card small {
+  color: #a9a9a9;
+  display: block;
+  font-size: 0.85rem;
+}
+
+.post-card:hover {
+  border-color: #4a4a4a;
+}
