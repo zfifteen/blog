@@ -1,0 +1,168 @@
+# =============================================================
+# SITE IDENTITY
+# =============================================================
+title: "Big D's Blog"
+description: "Notes on reproducibility, math, and code."
+url: "https://zfifteen.github.io"       # root domain, no trailing slash
+baseurl: "/blog"                         # repo subpath; leave "" for user sites
+
+# =============================================================
+# AUTHOR (available as {{ site.author.name }} in templates)
+# =============================================================
+author:
+  name: "Big D"
+  email: "you@example.com"
+  github: "zfifteen"
+  twitter: "alltheputs"
+
+# =============================================================
+# THEME
+# Pick one: built-in theme OR remote_theme, not both
+# Built-in options: minima, jekyll-theme-minimal, jekyll-theme-midnight,
+#   jekyll-theme-cayman, jekyll-theme-slate, jekyll-theme-hacker, etc.
+# =============================================================
+theme: jekyll-theme-midnight
+# remote_theme: pages-themes/cayman   # uncomment to use a remote theme instead
+
+# =============================================================
+# MARKDOWN + SYNTAX HIGHLIGHTING
+# GitHub Pages locks highlighter to rouge; kramdown is default
+# =============================================================
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM                  # GitHub Flavored Markdown
+  hard_wrap: false
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: "highlight"
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+
+# =============================================================
+# SASS / CSS COMPILATION
+# =============================================================
+sass:
+  sass_dir: _sass
+  style: compressed            # options: nested | expanded | compact | compressed
+
+# =============================================================
+# PAGINATION (only works in index.html, not .md files)
+# =============================================================
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-redirect-from
+  - jekyll-readme-index        # lets README.md serve as homepage
+  - jekyll-relative-links      # makes relative .md links work
+  - jekyll-titles-from-headings
+
+paginate: 5
+paginate_path: "/posts/page:num/"
+
+# =============================================================
+# PERMALINK STRUCTURE FOR POSTS
+# Options: date | pretty | ordinal | weekdate | /:categories/:year/:title/
+# =============================================================
+permalink: /posts/:year/:month/:day/:title/
+
+# =============================================================
+# COLLECTIONS (custom content types beyond posts)
+# =============================================================
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+  notes:
+    output: true
+    permalink: /notes/:path/
+
+# =============================================================
+# FRONT MATTER DEFAULTS
+# Avoids repeating layout/author in every file's front matter
+# =============================================================
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Big D"
+      comments: true
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# =============================================================
+# NAVIGATION (custom variable, accessed via {{ site.nav }})
+# =============================================================
+nav:
+  - title: "Home"
+    url: "/blog/"
+  - title: "Posts"
+    url: "/blog/posts/"
+  - title: "Projects"
+    url: "/blog/projects/"
+  - title: "About"
+    url: "/blog/about/"
+
+# =============================================================
+# BUILD EXCLUSIONS (keeps clutter out of the generated site)
+# =============================================================
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .github
+  - scripts
+  - "*.sh"
+  - README.md    # remove this line if using jekyll-readme-index
+
+# =============================================================
+# INCLUDE (force Jekyll to process normally-ignored files)
+# =============================================================
+include:
+  - _pages
+
+# =============================================================
+# FEED (jekyll-feed config)
+# =============================================================
+feed:
+  path: feed.xml
+  posts_limit: 20
+
+# =============================================================
+# SEO TAG (jekyll-seo-tag config)
+# Adds <meta> OpenGraph + Twitter card tags automatically
+# =============================================================
+twitter:
+  username: alltheputs
+  card: summary
+
+social:
+  name: "Big D"
+  links:
+    - "https://github.com/zfifteen"
+    - "https://x.com/alltheputs"
+
+# =============================================================
+# WHAT GITHUB PAGES LOCKS (do NOT override these)
+# safe: true
+# lsi: false
+# incremental: false
+# highlighter: rouge
+# =============================================================
