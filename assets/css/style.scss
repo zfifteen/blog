@@ -1,0 +1,32 @@
+---
+---
+@import "{{ site.theme }}";
+
+body {
+  background: #000 !important;
+  color: #fff !important;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+li,
+span,
+div {
+  color: #fff !important;
+}
+
+a {
+  color: #fff !important;
+  text-decoration: underline;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+}

@@ -1,7 +1,7 @@
 # =============================================================
 # SITE IDENTITY
 # =============================================================
-title: "Big D's Blog"
+title: "Fate's Blog"
 description: "Notes on reproducibility, math, and code."
 url: "https://zfifteen.github.io"       # root domain, no trailing slash
 baseurl: "/blog"                         # repo subpath; leave "" for user sites
@@ -10,8 +10,8 @@ baseurl: "/blog"                         # repo subpath; leave "" for user sites
 # AUTHOR (available as {{ site.author.name }} in templates)
 # =============================================================
 author:
-  name: "Big D"
-  email: "you@example.com"
+  name: "Fate"
+#  email: "you@example.com"
   github: "zfifteen"
   twitter: "alltheputs"
 
@@ -21,7 +21,7 @@ author:
 # Built-in options: minima, jekyll-theme-minimal, jekyll-theme-midnight,
 #   jekyll-theme-cayman, jekyll-theme-slate, jekyll-theme-hacker, etc.
 # =============================================================
-theme: jekyll-theme-midnight
+theme: jekyll-theme-hacker
 # remote_theme: pages-themes/cayman   # uncomment to use a remote theme instead
 
 # =============================================================
