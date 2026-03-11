@@ -2,12 +2,12 @@
 layout: post
 title: "The Null Result That Wasn't"
 description: "A detailed critique of a 2026 Cell paper arguing that its SARS-CoV-2 conclusion overstates what a non-significant RELAX result can support."
-image: "/assets/1f1a002f-d5c2-49f1-9b0c-818a46cf9687.png"   # social preview image
+image: "/assets/1f1a002f-d5c2-49f1-9b0c-818a46cf9687-card.jpg"   # social preview image
 image_alt: "The Null Result That Wasn't"
 date: 2026-03-11
 permalink: /2026-03-11/the-null-result-that-wasnt/
 ---
-![1f1a002f-d5c2-49f1-9b0c-818a46cf9687.png]({{ "/assets/1f1a002f-d5c2-49f1-9b0c-818a46cf9687.png" | relative_url }})
+![1f1a002f-d5c2-49f1-9b0c-818a46cf9687-card.jpg]({{ "/assets/1f1a002f-d5c2-49f1-9b0c-818a46cf9687-card.jpg" | relative_url }})
 # The Null Result That Wasn't
 
 *A landmark paper in Cell claimed genomic evidence rules out a lab origin for SARS-CoV-2. The statistics say otherwise — and the authors knew it.*
