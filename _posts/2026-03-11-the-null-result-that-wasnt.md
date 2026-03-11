@@ -2,18 +2,24 @@
 layout: post
 title: "The Null Result That Wasn't"
 description: "A detailed critique of a 2026 Cell paper arguing that its SARS-CoV-2 conclusion overstates what a non-significant RELAX result can support."
+image: "/assets/1f1a002f-d5c2-49f1-9b0c-818a46cf9687.png"   # social preview image
+image_alt: "The Null Result That Wasn't"
 date: 2026-03-11
 permalink: /2026-03-11/the-null-result-that-wasnt/
 ---
-
+![1f1a002f-d5c2-49f1-9b0c-818a46cf9687.png]({{ "/assets/1f1a002f-d5c2-49f1-9b0c-818a46cf9687.png" | relative_url }})
 # The Null Result That Wasn't
 
 *A landmark paper in Cell claimed genomic evidence rules out a lab origin for SARS-CoV-2. The statistics say otherwise — and the authors knew it.*
+
+---
 
 > **Note.**
 > **EDITORIAL NOTE**
 > All factual claims are drawn verbatim from the published paper: Havens JL, Kosakovsky Pond SL, Zehr JD, Pekar JE, Parker E, Worobey M, Andersen KG, Wertheim JO. 'Dynamics of natural selection preceding human viral epidemics and pandemics.' Cell 189, 1-14, April 30, 2026. DOI: 10.1016/j.cell.2026.02.006.
 > Questions of author intent are presented as strong inferences from the documentary record — not as established fact. Authors should be offered right of reply before publication. All direct quotations from the paper require no further fact-checking; claims about the Proximal Origin paper and FOIA emails require sourcing review before publication.
+
+---
 
 ## I. What the Headlines Said
 
@@ -25,9 +31,13 @@ The coverage was consistent: a team of leading evolutionary biologists, using a 
 
 The paper's own Highlights — the bullet-pointed summary that lives on the front page, in every citation database, in every press release — had stated the conclusion plainly:
 
+---
+
 > "Selection signatures on SARS-CoV-2 were unchanged until its emergence in humans"
 
 > "Laboratory and gain-of-function passage produce distinct evolutionary signatures"
+
+---
 
 Read together, those two sentences construct an argument: the method can see lab passage. It looked at SARS-CoV-2. It saw nothing unusual. Therefore, no lab passage.
 
@@ -41,8 +51,12 @@ They know what p = 0.23 means. They wrote, in their own Limitations section, a d
 
 And then they put 'unchanged' in the Highlights.
 
+---
+
 > **Key Point.**
 > *p = 0.23 is not evidence of stability. It is evidence the test could not tell. Andersen, Worobey, Wertheim, and Kosakovsky Pond know the difference.*
+
+---
 
 ## II. The Method and What It Can — and Cannot — See
 
@@ -54,10 +68,14 @@ The method is tested against a null hypothesis: K = 1. A p-value below 0.05 mean
 
 For the SARS-CoV-2 stem branch — the genomic lineage immediately preceding the virus's emergence in humans — Havens, Kosakovsky Pond, Zehr, Pekar, Parker, Worobey, Andersen, and Wertheim report:
 
+---
+
 > **Key Point.**
 > **THE SARS-CoV-2 RESULT**
 > K = 1.1   |   p = 0.23
 > *Null hypothesis NOT rejected. No significant departure from background selection detected.*
+
+---
 
 The paper correctly describes this result in the body text using cautious language: 'no evidence of intensification or relaxation.' For Ebola, for Marburg, for the 2009 H1N1 pandemic influenza — all of which also return non-significant stem results — the same careful phrasing is used. No evidence. Not statistically distinguishable. No support.
 
@@ -88,14 +106,22 @@ There is one control that is genuinely analogous to the scenario in question: th
 
 In the H5N1 control, Herfst and colleagues passaged the virus through ferrets — a deliberate, experimentally documented act of gain-of-function research, precisely the scenario the paper's critics of SARS-CoV-2 would invoke. Wertheim, Kosakovsky Pond, and their co-authors tested whether RELAX could detect the resulting selection change. They found a significant p-value (p < 0.01). Then they disclosed what the significant result actually showed:
 
+---
+
 > "The inferred direction of change in selection intensity was unstable; relaxation (K = 0.01) and intensification (K = 2.12) did not have significantly different likelihoods in our model. This instability is partly due to the relatively low level of genomic divergence produced during the gain-of-function experiment."
+
+---
 
 Pause on that. The gain-of-function control — the experiment most directly parallel to the lab-origin hypothesis being tested against SARS-CoV-2 — produced a result so unstable that the method could not determine whether selection was relaxed or intensified. K oscillated between 0.01 and 2.12, two values that are, mechanistically, complete opposites. The authors attribute this collapse to 'relatively low level of genomic divergence.'
 
 The SARS-CoV-2 stem branch is also a low-divergence branch. Havens and co-authors note elsewhere in the paper that the stem preceding SARS-CoV-2 is short. The conditions that caused the H5N1 gain-of-function control to return an unstable, direction-ambiguous, essentially uninterpretable result are not exotic. They are the same conditions under which the SARS-CoV-2 analysis was conducted.
 
+---
+
 > **Key Point.**
 > *The gain-of-function control broke down under low divergence. The SARS-CoV-2 stem is low divergence. Worobey, Andersen, Wertheim, and Kosakovsky Pond called one result 'unstable.' They called the other 'unchanged.'*
+
+---
 
 The authors do not acknowledge this parallel. The H5N1 instability is described in the Results section and never revisited when interpreting the SARS-CoV-2 finding. A reader moving from the H5N1 section to the SARS-CoV-2 section would have to carry the caveat consciously — to remember that the method produced an uninterpretable result under low-divergence conditions and ask whether those conditions apply to the test they are now reading about.
 
@@ -105,6 +131,8 @@ Most readers do not do that. The authors know that most readers do not do that.
 
 Near the end of the paper's main text, in the subsection titled 'Limitations of the study,' Havens, Kosakovsky Pond, Zehr, Pekar, Parker, Worobey, Andersen, and Wertheim describe, with precision, the conditions under which their method fails to produce meaningful results.
 
+---
+
 They write:
 
 > "Intuitively, for the method to be powered, it is necessary to have a selection change that is sufficiently large and an evolutionary time that is sufficiently long to accumulate detectable substitution patterns. A single or a few substitutions, even if they are adaptive, will likely be missed."
@@ -112,6 +140,8 @@ They write:
 And then:
 
 > "The power of our approach can also be limited by exceptionally short evolutionary branches... Changes in selection that result in minimal changes to a viral genome (i.e., one or two nonsynonymous substitutions) can be exceedingly difficult to detect in any circumstance."
+
+---
 
 These are not routine caveats. They are exact descriptions of the SARS-CoV-2 stem branch: a short evolutionary branch, a low-divergence lineage, a scenario where the method is, by the authors' own admission, unreliable.
 
@@ -131,6 +161,8 @@ No such test appears anywhere in this paper. Havens, Kosakovsky Pond, Zehr, Peka
 
 The eight authors of this paper are not neutral technicians. They are prominent scientists who have been active, public, and financially involved participants in the debate about COVID-19's origins.
 
+---
+
 > **Note.**
 > **AUTHOR PROFILES**
 > JOEL O. WERTHEIM (corresponding author, UCSD) — published the original RELAX framework in 2015. Co-authored multiple papers arguing for a natural zoonotic origin of SARS-CoV-2, including the molecular epidemiology analysis in Science (2022). Disclosed: consulting fees and/or compensated expert testimony on SARS-CoV-2.
@@ -142,9 +174,13 @@ The eight authors of this paper are not neutral technicians. They are prominent 
 > JORDAN D. ZEHR (Cornell University / Temple University) — computational biologist. Not named in the prior COI disclosures.
 > EDYTH PARKER (The Scripps Research Institute, Andersen lab) — not named in prior COI disclosures.
 
+---
+
 The paper's Declaration of Interests states, in a single sentence:
 
 > "J.E.P., M.W., K.G.A., and J.O.W. have received consulting fees and/or provided compensated expert testimony on SARS-CoV-2 and the COVID-19 pandemic."
+
+---
 
 Four of the eight authors — including two of the three corresponding authors — have financial relationships bearing directly on the question this paper addresses. The declaration does not say who engaged them, in what capacity, on which side of which question, or for how much. A reader is left to infer that the researchers whose names have been publicly associated with the natural-origin position were retained to advance that position, but the paper provides no basis to confirm or refute that inference.
 
@@ -194,8 +230,12 @@ That is a genuinely important finding. It means the evolutionary record, as anal
 
 Those are different stories. Only one of them was published.
 
+---
+
 > **Key Point.**
 > *The honest headline from this paper is not 'genomics rules out lab origin.' It is 'genomics cannot tell.' Only one of those headlines was published.*
+
+---
 
 ## VIII. Verdict
 
