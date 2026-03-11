@@ -4,8 +4,6 @@ title: Home
 permalink: /
 ---
 
-# Index
-
 ## Latest Posts
 <div class="post-grid">
 {% for post in site.posts %}
