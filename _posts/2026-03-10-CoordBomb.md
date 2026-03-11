@@ -10,7 +10,7 @@ permalink: /2026-03-10/CoordBomb/
 
 # The 5% Coordination Bomb: How Private Credit’s Gates and 1% Volume Threshold Will Trigger Collapse Faster Than Any Default Cycle
 
-![cd5e6377-b213-4749-a47c-e9980eff7a0e.png]({{ "/assets/cd5e6377-b213-4749-a47c-e9980eff7a0e.png" | relative_url }})
+![cd5e6377-b213-4749-a47c-e9980eff7a0e-card.jpg]({{ "/assets/cd5e6377-b213-4749-a47c-e9980eff7a0e-card.jpg" | relative_url }})
 
 In private credit, the 5% quarterly redemption cap is not a liquidity buffer -- it is a behavioral coordination device that, once publicly breached, turns investor fear into a self-executing trigger regardless of the actual credit quality of the underlying loans.
 
