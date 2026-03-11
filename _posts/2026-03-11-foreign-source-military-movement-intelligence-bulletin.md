@@ -29,75 +29,75 @@ The 48-hour reporting period captures a theater-wide US and Allied military post
 
 ### 2.a. CENTCOM Destroys 16 Iranian Mine-Laying Vessels Near Strait of Hormuz
 
-**Source:** BBC Arabic (بي بي سي عربي), Arabic, 11 March 2026; Al Jazeera Arabic (الجزيرة), Arabic, 11 March 2026[^1]
+**Source:** BBC Arabic (بي بي سي عربي), Arabic, 11 March 2026; Al Jazeera Arabic (الجزيرة), Arabic, 11 March 2026
 
-**Translation summary:** BBC Arabic's live coverage and Al Jazeera Arabic's liveblog reported that CENTCOM published video footage showing the destruction of 16 Iranian vessels described as mine-laying ships ("سفينة مصممة لزرع الألغام") near the Strait of Hormuz. The Chairman of the Joint Chiefs, General Dan Caine, stated in a Pentagon briefing on Monday that destroying the Iranian navy constitutes one of three principal objectives of the ongoing operation.[^1]
+**Translation summary:** BBC Arabic's live coverage and Al Jazeera Arabic's liveblog reported that CENTCOM published video footage showing the destruction of 16 Iranian vessels described as mine-laying ships ("سفينة مصممة لزرع الألغام") near the Strait of Hormuz. The Chairman of the Joint Chiefs, General Dan Caine, stated in a Pentagon briefing on Monday that destroying the Iranian navy constitutes one of three principal objectives of the ongoing operation.
 
 **Analyst note:** This action directly addresses Tehran's declared objective of mining the Strait of Hormuz and represents a significant escalation in the maritime denial campaign, reducing Iran's capacity to interdict the 21% of global petroleum transiting the strait.
 
 ### 2.b. French Carrier Charles de Gaulle Positioned Off Crete / Approaching Cyprus Waters
 
-**Source:** Anadolu Ajansı French service (AA France), French, 9 March 2026; Le Monde (Le Monde), French, 9 March 2026; Euronews France, French, 9 March 2026[^2][^3][^4]
+**Source:** Anadolu Ajansı French service (AA France), French, 9 March 2026; Le Monde (Le Monde), French, 9 March 2026; Euronews France, French, 9 March 2026
 
-**Translation summary:** President Macron visited the carrier Charles de Gaulle on 9 March, arriving by helicopter while the vessel was positioned in Greek waters off Crete. From the flight deck, Macron announced France would deploy "eight frigates, two amphibious helicopter carriers, and our aircraft carrier" ("huit frégates, deux porte-hélicoptères amphibies et notre porte-avions") across a zone extending from the Eastern Mediterranean to the Red Sea and the Strait of Hormuz. Macron described the posture as "purely defensive" ("purement défensive") and stated France was preparing, with partners, a mission to reopen the Strait of Hormuz for calibrated merchant shipping transit after the conflict's most intense phase.[^3][^5]
+**Translation summary:** President Macron visited the carrier Charles de Gaulle on 9 March, arriving by helicopter while the vessel was positioned in Greek waters off Crete. From the flight deck, Macron announced France would deploy "eight frigates, two amphibious helicopter carriers, and our aircraft carrier" ("huit frégates, deux porte-hélicoptères amphibies et notre porte-avions") across a zone extending from the Eastern Mediterranean to the Red Sea and the Strait of Hormuz. Macron described the posture as "purely defensive" ("purement défensive") and stated France was preparing, with partners, a mission to reopen the Strait of Hormuz for calibrated merchant shipping transit after the conflict's most intense phase.
 
 **Analyst note:** This represents the largest French naval force deployment since the 2011 Libya campaign. The explicit mention of a Hormuz freedom-of-navigation mission signals French intent to assume a leading European role in restoring maritime transit, independent of US command.
 
 ### 2.c. Dutch Frigate HNLMS Evertsen Confirmed Deployed with French CSG Until Early April
 
-**Source:** NRC Handelsblad (NRC Handelsblad), Dutch, 9 March 2026; RTL Nieuws (RTL), Dutch, 9 March 2026; SWZ Maritime, Dutch, 5 March 2026[^6][^7][^8]
+**Source:** NRC Handelsblad (NRC Handelsblad), Dutch, 9 March 2026; RTL Nieuws (RTL), Dutch, 9 March 2026; SWZ Maritime, Dutch, 5 March 2026
 
-**Translation summary:** The Dutch government formally confirmed the deployment of the De Zeven Provinciën-class air defense and command frigate HNLMS Evertsen to the Eastern Mediterranean from this week until early April. Defense Minister Dilan Yeşilgöz-Zegerius stated the frigate would "contribute to the defense of the Carrier Strike Group and the defense of Cyprus and allied territory." NRC Handelsblad reported the mission is "not without risk" and the frigate must account for Russian naval presence in the area. The Evertsen had been sailing with the Charles de Gaulle since 4 February.[^7][^6]
+**Translation summary:** The Dutch government formally confirmed the deployment of the De Zeven Provinciën-class air defense and command frigate HNLMS Evertsen to the Eastern Mediterranean from this week until early April. Defense Minister Dilan Yeşilgöz-Zegerius stated the frigate would "contribute to the defense of the Carrier Strike Group and the defense of Cyprus and allied territory." NRC Handelsblad reported the mission is "not without risk" and the frigate must account for Russian naval presence in the area. The Evertsen had been sailing with the Charles de Gaulle since 4 February.
 
 **Analyst note:** The Evertsen's SMART-L radar (400 km detection range) and APAR phased-array radar provide critical long-range air surveillance that complements the French CSG's organic defense, filling a capability the French ships lack at that range band.
 
 ### 2.d. Italian FREMM Frigate Martinengo Ordered to Cyprus
 
-**Source:** Naval News (citing Italian parliamentary statements), French-headquartered, 8 March 2026; Corriere della Sera reporting referenced in Italian parliamentary session, Italian, 5 March 2026[^9][^10]
+**Source:** Naval News (citing Italian parliamentary statements), French-headquartered, 8 March 2026; Corriere della Sera reporting referenced in Italian parliamentary session, Italian, 5 March 2026
 
-**Translation summary:** Italy ordered the Bergamini-class FREMM frigate Federico Martinengo to the Eastern Mediterranean to contribute to the multinational European force package defending Cyprus. Defense Minister Guido Crosetto confirmed this to the Italian Parliament, stating Italy, France, the Netherlands, and Spain agreed "within the EU it made sense to send a message of support to Cyprus." The Martinengo previously served as flagship of Operation EUNAVFOR Aspides in the Red Sea in 2025. Additionally, the ASW-variant FREMM Spartaco Schergat, already off Sicily following NATO Dynamic Manta exercises, may support the deployment.[^10][^11]
+**Translation summary:** Italy ordered the Bergamini-class FREMM frigate Federico Martinengo to the Eastern Mediterranean to contribute to the multinational European force package defending Cyprus. Defense Minister Guido Crosetto confirmed this to the Italian Parliament, stating Italy, France, the Netherlands, and Spain agreed "within the EU it made sense to send a message of support to Cyprus." The Martinengo previously served as flagship of Operation EUNAVFOR Aspides in the Red Sea in 2025. Additionally, the ASW-variant FREMM Spartaco Schergat, already off Sicily following NATO Dynamic Manta exercises, may support the deployment.
 
 **Analyst note:** Italy now has multiple FREMM frigates in the Mediterranean, with the Martinengo's Aster 30 air defense missiles and Teseo Mk2/A anti-ship capabilities adding substantial firepower to the European force near Cyprus.
 
 ### 2.e. Spanish Frigate Cristóbal Colón En Route to Eastern Mediterranean
 
-**Source:** Spanish Ministry of Defense statement (Ministerio de Defensa), Spanish, 5-6 March 2026, reported through Euronews and defense outlets[^12][^13][^9]
+**Source:** Spanish Ministry of Defense statement (Ministerio de Defensa), Spanish, 5-6 March 2026, reported through Euronews and defense outlets
 
-**Translation summary:** Spain's most advanced frigate, the Álvaro de Bazán-class Cristóbal Colón, joined the Charles de Gaulle formation from the Baltic Sea and was expected to arrive off Crete around 10 March. The Spanish defense ministry stated the frigate's mission is to "offer protection and air defense" ("ofrecer protección y defensa aérea") and "support any evacuation of civilians."[^9]
+**Translation summary:** Spain's most advanced frigate, the Álvaro de Bazán-class Cristóbal Colón, joined the Charles de Gaulle formation from the Baltic Sea and was expected to arrive off Crete around 10 March. The Spanish defense ministry stated the frigate's mission is to "offer protection and air defense" ("ofrecer protección y defensa aérea") and "support any evacuation of civilians."
 
 **Analyst note:** Spain's decision to send its most capable air-defense frigate is notable given Madrid's simultaneous refusal to allow US use of Spanish bases for offensive operations against Iran, demonstrating a nuanced posture of defensive solidarity while maintaining political distance from the strike campaign.
 
 ### 2.f. French Amphibious Assault Ship Tonnerre Deployed Toward Eastern Mediterranean
 
-**Source:** Opex360 (opex360.com), French, 9 March 2026; Le Marin (Ouest-France group), French, 6 March 2026; Naval News, French-headquartered, 5 March 2026[^14][^15][^5]
+**Source:** Opex360 (opex360.com), French, 9 March 2026; Le Marin (Ouest-France group), French, 6 March 2026; Naval News, French-headquartered, 5 March 2026
 
-**Translation summary:** The Mistral-class LHD Tonnerre departed Toulon naval base escorted by the Lafayette-class frigate Courbet, heading toward the Eastern Mediterranean. French sources confirmed the Tonnerre embarked two NH90 helicopters, two Tiger attack helicopters, two Schiebel S-100 VTOL UAVs, and landing craft. The deployment is framed as a Lebanon evacuation contingency, with approximately 20,000 French and dual nationals in the country. Opex360 reported the Tonnerre carries a 69-bed hospital with two operating rooms.[^16][^15]
+**Translation summary:** The Mistral-class LHD Tonnerre departed Toulon naval base escorted by the Lafayette-class frigate Courbet, heading toward the Eastern Mediterranean. French sources confirmed the Tonnerre embarked two NH90 helicopters, two Tiger attack helicopters, two Schiebel S-100 VTOL UAVs, and landing craft. The deployment is framed as a Lebanon evacuation contingency, with approximately 20,000 French and dual nationals in the country. Opex360 reported the Tonnerre carries a 69-bed hospital with two operating rooms.
 
 **Analyst note:** This positions France with a sea-based evacuation, command, and medical platform off Lebanon, separate from the carrier strike function, suggesting Paris is planning for a Lebanese front escalation scenario.
 
 ### 2.g. UK HMS Dragon Sets Sail for Eastern Mediterranean
 
-**Source:** Reported via multiple outlets; British HMS Dragon (Type 45 destroyer) departed Portsmouth on 10 March after significant delays[^17]
+**Source:** Reported via multiple outlets; British HMS Dragon (Type 45 destroyer) departed Portsmouth on 10 March after significant delays
 
-**Translation summary:** HMS Dragon, a Type 45 destroyer, finally set sail on 10 March, seven days after Prime Minister Starmer first announced the deployment. The ship's departure was delayed by the need to resupply Sea Viper air defense missiles. UK also deployed Wildcat helicopters armed with Martlet anti-drone missiles and additional Typhoon jets to Qatar.[^17]
+**Translation summary:** HMS Dragon, a Type 45 destroyer, finally set sail on 10 March, seven days after Prime Minister Starmer first announced the deployment. The ship's departure was delayed by the need to resupply Sea Viper air defense missiles. UK also deployed Wildcat helicopters armed with Martlet anti-drone missiles and additional Typhoon jets to Qatar.
 
 **Analyst note:** The week-long delay in getting a single destroyer to sea has drawn criticism regarding Royal Navy readiness. HMS Dragon's Sea Viper system provides ballistic missile defense capability that is badly needed around Cyprus.
 
 ### 2.h. UKMTO Reports Cargo Ship Hit by Projectile in Strait of Hormuz
 
-**Source:** BBC Arabic (بي بي سي عربي), Arabic, 11 March 2026[^1]
+**Source:** BBC Arabic (بي بي سي عربي), Arabic, 11 March 2026
 
-**Translation summary:** The United Kingdom Maritime Trade Operations (UKMTO) reported a cargo vessel in the Strait of Hormuz was struck by an unidentified projectile, causing a fire on board and forcing crew evacuation. BBC Arabic's liveblog carried the report on 11 March as part of continuing coverage of Hormuz maritime security deterioration. More than 10 attacks were reported on vessels in the Persian Gulf region heading toward Iran.[^1]
+**Translation summary:** The United Kingdom Maritime Trade Operations (UKMTO) reported a cargo vessel in the Strait of Hormuz was struck by an unidentified projectile, causing a fire on board and forcing crew evacuation. BBC Arabic's liveblog carried the report on 11 March as part of continuing coverage of Hormuz maritime security deterioration. More than 10 attacks were reported on vessels in the Persian Gulf region heading toward Iran.
 
 **Analyst note:** This is consistent with Iran's declared intent to control passage through Hormuz under wartime conditions and represents continuing attrition of commercial shipping confidence in the waterway.
 
 ### 2.i. IRGC Claims No US Ship Will Approach Hormuz
 
-**Source:** Al Jazeera Arabic (الجزيرة), Arabic, 10 March 2026[^18]
+**Source:** Al Jazeera Arabic (الجزيرة), Arabic, 10 March 2026
 
-**Translation summary:** The IRGC spokesperson told Al Jazeera Arabic: "No American ship will dare approach the Sea of Oman, Gulf waters, or the Strait of Hormuz" ("لن تجرؤ أي سفينة أمريكية على الاقتراب من بحر عمان ومياه الخليج ومضيق هرمز"). The IRGC stated it would use missiles and submarines to halt movement of the US and allied fleet through the strait.[^19][^18]
+**Translation summary:** The IRGC spokesperson told Al Jazeera Arabic: "No American ship will dare approach the Sea of Oman, Gulf waters, or the Strait of Hormuz" ("لن تجرؤ أي سفينة أمريكية على الاقتراب من بحر عمان ومياه الخليج ومضيق هرمز"). The IRGC stated it would use missiles and submarines to halt movement of the US and allied fleet through the strait.
 
-**[UNVERIFIED]** Iran's claims of effective sea denial are contradicted by continued US naval operations in the region and confirmed "dark" transits by tankers through the strait.[^20]
+**[UNVERIFIED]** Iran's claims of effective sea denial are contradicted by continued US naval operations in the region and confirmed "dark" transits by tankers through the strait.
 
 ***
 
@@ -105,25 +105,25 @@ The 48-hour reporting period captures a theater-wide US and Allied military post
 
 ### 3.a. US Strikes Described as "Most Intense Day" on March 10
 
-**Source:** Xinhua Chinese (新华社), Chinese, 10 March 2026; SANA (Syrian Arab News Agency), Arabic/English, 10 March 2026[^21][^19]
+**Source:** Xinhua Chinese (新华社), Chinese, 10 March 2026; SANA (Syrian Arab News Agency), Arabic/English, 10 March 2026
 
-**Translation summary:** Xinhua reported that US Defense Secretary Pete Hegseth described March 10 as the "most intense" day of strikes since Operation Epic Fury began, stating "we will not relent" until Iran is "totally and decisively defeated." Xinhua also reported that Trump stated the US military destroyed 42 Iranian navy ships and paralyzed Iran's communications over three days ending March 8.[^22][^19]
+**Translation summary:** Xinhua reported that US Defense Secretary Pete Hegseth described March 10 as the "most intense" day of strikes since Operation Epic Fury began, stating "we will not relent" until Iran is "totally and decisively defeated." Xinhua also reported that Trump stated the US military destroyed 42 Iranian navy ships and paralyzed Iran's communications over three days ending March 8.
 
 **Analyst note:** The sustained high tempo of air operations implies continuing round-the-clock carrier-based and land-based sorties from the Gerald R. Ford in the Red Sea, the Abraham Lincoln in the Arabian Sea, and forward-deployed air assets in the Gulf.
 
 ### 3.b. UK Deploys Additional Typhoon Jets to Qatar, F-35Bs Operating
 
-**Source:** Referenced in UK MoD statement reported via multiple European outlets, 10 March 2026[^17]
+**Source:** Referenced in UK MoD statement reported via multiple European outlets, 10 March 2026
 
-**Translation summary:** A UK Ministry of Defence spokesperson stated: "We are reinforcing our defensive presence in the Eastern Mediterranean with four additional Typhoon jets to Qatar. RAF Typhoons, F-35B jets, ground-based counter-drone teams, radar systems, and Voyager refuelling aircraft [are] already deployed. Our jets are flying continuous sorties to defend against indiscriminate Iranian strikes."[^17]
+**Translation summary:** A UK Ministry of Defence spokesperson stated: "We are reinforcing our defensive presence in the Eastern Mediterranean with four additional Typhoon jets to Qatar. RAF Typhoons, F-35B jets, ground-based counter-drone teams, radar systems, and Voyager refuelling aircraft [are] already deployed. Our jets are flying continuous sorties to defend against indiscriminate Iranian strikes."
 
 **Analyst note:** The addition of Typhoons to Qatar suggests the UK is actively providing air defense coverage for Gulf states hosting US forces, expanding British involvement beyond the Cyprus perimeter.
 
 ### 3.c. French Carrier Embarked Air Wing Operating from Eastern Mediterranean
 
-**Source:** Parlons Politique (parlons-politique.fr), French, 9 March 2026; TF1 Info, French, 5 March 2026[^23][^24]
+**Source:** Parlons Politique (parlons-politique.fr), French, 9 March 2026; TF1 Info, French, 5 March 2026
 
-**Translation summary:** French reporting confirmed the Charles de Gaulle is operating with approximately 20 Rafale fighter jets, three E-2C Hawkeye airborne early warning aircraft, and several helicopters. Macron described these assets as "the centerpiece of a deterrent arsenal" ("la pièce maîtresse d'un arsenal dissuasif").[^24]
+**Translation summary:** French reporting confirmed the Charles de Gaulle is operating with approximately 20 Rafale fighter jets, three E-2C Hawkeye airborne early warning aircraft, and several helicopters. Macron described these assets as "the centerpiece of a deterrent arsenal" ("la pièce maîtresse d'un arsenal dissuasif").
 
 **Analyst note:** Twenty Rafales represent a significant air defense and potential strike capability. Combined with Hawkeye AEW coverage, the French CSG can provide autonomous air defense umbrella coverage across the Eastern Mediterranean.
 
@@ -133,25 +133,25 @@ The 48-hour reporting period captures a theater-wide US and Allied military post
 
 ### 4.a. NATO Patriot Air Defense Battery Deployed to Malatya, Turkey
 
-**Source:** Yeni Şafak (Yeni Şafak), Turkish, 10 March 2026; Turkish Ministry of National Defense (MSB) official statement, Turkish, 10 March 2026[^25][^26][^27]
+**Source:** Yeni Şafak (Yeni Şafak), Turkish, 10 March 2026; Turkish Ministry of National Defense (MSB) official statement, Turkish, 10 March 2026
 
-**Translation summary:** The Turkish MSB announced: "In addition to measures we have taken at the national level, NATO has strengthened its air and missile defense measures. In this scope, a Patriot system assigned to support the protection of our airspace is being deployed in Malatya" ("Millî düzeyde aldığımız tedbirlere ilave olarak NATO tarafından hava ve füze savunma tedbirleri artırılmıştır. Bu kapsamda, hava sahamızın korunmasına destek sağlamak üzere görevlendirilen bir Patriot Sistemi Malatya'da konuşlandırılmaktadır"). Yeni Şafak reported that Patriot components were transported from Ramstein Air Base, Germany, to Turkey via airlift. The deployment is near the Kürecik radar base, which houses NATO's AN/TPY-2 early-warning radar for detecting Iranian missile launches.[^27][^25]
+**Translation summary:** The Turkish MSB announced: "In addition to measures we have taken at the national level, NATO has strengthened its air and missile defense measures. In this scope, a Patriot system assigned to support the protection of our airspace is being deployed in Malatya" ("Millî düzeyde aldığımız tedbirlere ilave olarak NATO tarafından hava ve füze savunma tedbirleri artırılmıştır. Bu kapsamda, hava sahamızın korunmasına destek sağlamak üzere görevlendirilen bir Patriot Sistemi Malatya'da konuşlandırılmaktadır"). Yeni Şafak reported that Patriot components were transported from Ramstein Air Base, Germany, to Turkey via airlift. The deployment is near the Kürecik radar base, which houses NATO's AN/TPY-2 early-warning radar for detecting Iranian missile launches.
 
 **Analyst note:** This is a direct response to two Iranian ballistic missiles entering Turkish airspace (intercepted by NATO on March 4 and March 9). The Kürecik radar has long been a sensitive issue for Turkey-Iran relations; its protection with Patriot batteries signals NATO's commitment to Article 5 deterrence even as Turkey maintains its non-belligerent posture.
 
 ### 4.b. NATO Intercepts Second Iranian Ballistic Missile Over Turkey
 
-**Source:** Anadolu Ajansı Turkish (Anadolu Ajansı), Turkish, 10 March 2026[^28][^29]
+**Source:** Anadolu Ajansı Turkish (Anadolu Ajansı), Turkish, 10 March 2026
 
-**Translation summary:** Anadolu Ajansı reported that NATO shot down an Iranian ballistic missile in Turkish airspace on 9 March, the second such interception in a week. Debris landed in Gaziantep, with no casualties. The Turkish defense ministry confirmed "necessary measures are being taken for the security of our borders and airspace." Separately, Anadolu reported that an Iranian ballistic missile heading toward Turkey's Incirlik Air Base was intercepted by NATO on 4 March.[^29][^30][^31]
+**Translation summary:** Anadolu Ajansı reported that NATO shot down an Iranian ballistic missile in Turkish airspace on 9 March, the second such interception in a week. Debris landed in Gaziantep, with no casualties. The Turkish defense ministry confirmed "necessary measures are being taken for the security of our borders and airspace." Separately, Anadolu reported that an Iranian ballistic missile heading toward Turkey's Incirlik Air Base was intercepted by NATO on 4 March.
 
 **Analyst note:** Two missile interceptions over NATO territory in five days represent an unprecedented threat to the Alliance's southern flank and have triggered Article 4 consultations at minimum. The Incirlik targeting suggests Iran views the base as operationally connected to the strike campaign.
 
 ### 4.c. US-ROK Freedom Shield Exercise Proceeds Despite Iran War
 
-**Source:** Yonhap Korean (연합뉴스), Korean, 4-5 March 2026 (within broader 48-hour awareness)[^32]
+**Source:** Yonhap Korean (연합뉴스), Korean, 4-5 March 2026 (within broader 48-hour awareness)
 
-**Translation summary:** South Korean Brig. Gen. Moon Han-ok and US Brig. Gen. W Bochat confirmed the 10-day Freedom Shield exercise would proceed as planned starting the week of March 10. Gen. Moon stated: "We are strengthening readiness thinking North Korea might show some provocations." ROK defense officials noted the US military had previously relocated Patriot batteries from South Korea to the Middle East in early 2025.[^33][^32]
+**Translation summary:** South Korean Brig. Gen. Moon Han-ok and US Brig. Gen. W Bochat confirmed the 10-day Freedom Shield exercise would proceed as planned starting the week of March 10. Gen. Moon stated: "We are strengthening readiness thinking North Korea might show some provocations." ROK defense officials noted the US military had previously relocated Patriot batteries from South Korea to the Middle East in early 2025.
 
 **Analyst note:** The decision to proceed with Freedom Shield signals to Pyongyang that the Iran campaign has not degraded combined US-ROK deterrence posture, though the prior redeployment of Patriot systems from Korea to the Middle East remains a latent vulnerability.
 
@@ -161,17 +161,17 @@ The 48-hour reporting period captures a theater-wide US and Allied military post
 
 ### 5.a. USS Gerald R. Ford 255+ Days at Sea; Extended Deployment Expected Through May
 
-**Source:** Bernama (Malaysian national news agency), Malay/English, 7 March 2026 (citing Anadolu Ajansı); Army Recognition, French-headquartered, 8 March 2026[^34][^35]
+**Source:** Bernama (Malaysian national news agency), Malay/English, 7 March 2026 (citing Anadolu Ajansı); Army Recognition, French-headquartered, 8 March 2026
 
-**Translation summary:** Bernama, citing Anadolu Ajansı Turkish bureau, reported the USS Gerald R. Ford transited the Suez Canal on 5 March alongside guided-missile destroyer USS Bainbridge (DDG-96) and entered the Red Sea on 7 March. The carrier had been at sea for 255 days as of 8 March, exceeding its previous 239-day deployment record. Vice Chief of Naval Operations Admiral Jim Kilby informed Congress the carrier is unlikely to return until May 2026, potentially creating an 11-month deployment.[^35][^34]
+**Translation summary:** Bernama, citing Anadolu Ajansı Turkish bureau, reported the USS Gerald R. Ford transited the Suez Canal on 5 March alongside guided-missile destroyer USS Bainbridge (DDG-96) and entered the Red Sea on 7 March. The carrier had been at sea for 255 days as of 8 March, exceeding its previous 239-day deployment record. Vice Chief of Naval Operations Admiral Jim Kilby informed Congress the carrier is unlikely to return until May 2026, potentially creating an 11-month deployment.
 
 **Analyst note:** A deployment exceeding 294 days would be the longest post-Vietnam War carrier deployment in US Navy history. Extended deployments of this duration create substantial maintenance backlogs and crew fatigue risks that compound across all embarked aircraft and systems.
 
 ### 5.b. Patriot Components Airlifted from Ramstein to Turkey
 
-**Source:** Yeni Şafak (Yeni Şafak), Turkish, 10 March 2026[^27]
+**Source:** Yeni Şafak (Yeni Şafak), Turkish, 10 March 2026
 
-**Translation summary:** NTV Turkey reported that Patriot air and missile defense system components were transported from Ramstein Air Base in Germany to Turkey via military cargo aircraft. The system is being assembled at Malatya, near the Kürecik radar installation.[^27]
+**Translation summary:** NTV Turkey reported that Patriot air and missile defense system components were transported from Ramstein Air Base in Germany to Turkey via military cargo aircraft. The system is being assembled at Malatya, near the Kürecik radar installation.
 
 **Analyst note:** Ramstein serves as the primary US air logistics hub in Europe. The movement of Patriot batteries from Germany to Turkey may draw down from the NATO air defense posture in central Europe, though the US maintains significant prepositioned stocks.
 
@@ -181,17 +181,17 @@ The 48-hour reporting period captures a theater-wide US and Allied military post
 
 ### 6.a. NATO Strengthens Alliance-Wide Ballistic Missile Defense Posture
 
-**Source:** Anadolu Ajansı Turkish (Anadolu Ajansı), Turkish, 10 March 2026; referenced across multiple European sources[^30][^31]
+**Source:** Anadolu Ajansı Turkish (Anadolu Ajansı), Turkish, 10 March 2026; referenced across multiple European sources
 
-**Translation summary:** Following the second interception of an Iranian ballistic missile over Turkish airspace, NATO announced it had "strengthened its alliance-wide ballistic missile defence posture." The integrated system incorporates Aegis Ashore sites in Romania and Poland, US Navy destroyers based at Rota, Spain, and the AN/TPY-2 radar at Kürecik, Turkey. Details were withheld "for operational security reasons."[^31][^30]
+**Translation summary:** Following the second interception of an Iranian ballistic missile over Turkish airspace, NATO announced it had "strengthened its alliance-wide ballistic missile defence posture." The integrated system incorporates Aegis Ashore sites in Romania and Poland, US Navy destroyers based at Rota, Spain, and the AN/TPY-2 radar at Kürecik, Turkey. Details were withheld "for operational security reasons."
 
 **Analyst note:** The activation of NATO's full ballistic missile defense architecture against an actual state-level threat is unprecedented. This represents the first operational test of the European Phased Adaptive Approach missile shield against real incoming warheads, validating two decades of infrastructure investment.
 
 ### 6.b. Greek Patriot Deployment to Karpathos
 
-**Source:** Anadolu Ajansı Turkish (Anadolu Ajansı), Turkish, 5 March 2026; Yeni Şafak (Yeni Şafak), Turkish, 4 March 2026; Greek Reporter citing Greek broadcaster MEGA, Greek, 4 March 2026[^36][^37][^38]
+**Source:** Anadolu Ajansı Turkish (Anadolu Ajansı), Turkish, 5 March 2026; Yeni Şafak (Yeni Şafak), Turkish, 4 March 2026; Greek Reporter citing Greek broadcaster MEGA, Greek, 4 March 2026
 
-**Translation summary:** Greece deployed a MIM-104 Patriot missile battery to Karpathos island, positioned between Crete and Rhodes, on 4 March. An amphibious ship of the Hellenic Navy docked at Pigadia port and unloaded the system. This deployment followed Iranian drone incidents at RAF Akrotiri, Cyprus, and is intended to close the defensive gap between the Greek mainland and Cyprus. Turkey's Foreign Ministry objected to the deployment.[^39][^38][^36]
+**Translation summary:** Greece deployed a MIM-104 Patriot missile battery to Karpathos island, positioned between Crete and Rhodes, on 4 March. An amphibious ship of the Hellenic Navy docked at Pigadia port and unloaded the system. This deployment followed Iranian drone incidents at RAF Akrotiri, Cyprus, and is intended to close the defensive gap between the Greek mainland and Cyprus. Turkey's Foreign Ministry objected to the deployment.
 
 **Analyst note:** The Karpathos Patriot creates a layered defense bridging the Greek mainland Patriot coverage with the naval Aster 30 systems on the frigate Kimon near Cyprus, establishing a continuous air defense corridor across the southeastern Aegean.
 
@@ -201,37 +201,37 @@ The 48-hour reporting period captures a theater-wide US and Allied military post
 
 ### 7.a. Japan Deploys Upgraded Type-12 Long-Range Missiles to Camp Kengun, Kumamoto
 
-**Source:** NHK Japanese (NHK), Japanese, 9 March 2026; Asahi Shimbun (朝日新聞/ANN), Japanese, 9 March 2026; Kyodo News (共同通信) via 47News, Japanese, 9 March 2026; Ukrinform Ukrainian, Ukrainian, 8 March 2026[^40][^41][^42][^43]
+**Source:** NHK Japanese (NHK), Japanese, 9 March 2026; Asahi Shimbun (朝日新聞/ANN), Japanese, 9 March 2026; Kyodo News (共同通信) via 47News, Japanese, 9 March 2026; Ukrinform Ukrainian, Ukrainian, 8 March 2026
 
-**Translation summary:** Military vehicles carrying launchers for Japan's first domestically developed long-range missiles arrived at Camp Kengun in Kumamoto Prefecture before dawn on 9 March. The upgraded Type-12 land-to-ship missile, developed by Mitsubishi Heavy Industries, has a range of approximately 1,000 km (a five-fold increase from the original 200 km), enabling strikes on mainland China from southwestern Japan. The deployment was originally scheduled for 2027 but was accelerated by one year, citing the "severe and complex security environment." Dozens of local residents protested outside the camp. The next deployment location will be Camp Fuji, Shizuoka, later this year.[^41][^43][^40]
+**Translation summary:** Military vehicles carrying launchers for Japan's first domestically developed long-range missiles arrived at Camp Kengun in Kumamoto Prefecture before dawn on 9 March. The upgraded Type-12 land-to-ship missile, developed by Mitsubishi Heavy Industries, has a range of approximately 1,000 km (a five-fold increase from the original 200 km), enabling strikes on mainland China from southwestern Japan. The deployment was originally scheduled for 2027 but was accelerated by one year, citing the "severe and complex security environment." Dozens of local residents protested outside the camp. The next deployment location will be Camp Fuji, Shizuoka, later this year.
 
 **Analyst note:** This is a landmark shift in Japan's defense posture, marking its first stand-off land-attack capability. The deployment's acceleration and the connection to Taiwan contingency planning represent a fundamental change in the Western Pacific deterrence architecture, potentially offsetting concern about US Middle East distraction.
 
 ### 7.b. Greece Activates Common Defense Doctrine with Cyprus
 
-**Source:** Greek Reporter (citing Greek Ministry of Defense announcements), Greek, 3 March 2026; Anadolu Ajansı Turkish (Anadolu Ajansı), Turkish, 5 March 2026[^44][^36][^39]
+**Source:** Greek Reporter (citing Greek Ministry of Defense announcements), Greek, 3 March 2026; Anadolu Ajansı Turkish (Anadolu Ajansı), Turkish, 5 March 2026
 
-**Translation summary:** Greece activated its Common Defense Doctrine with Cyprus for the first time in history, deploying the FDI HN frigate Kimon (32 vertical launch cells for Aster 30 missiles, Sea Fire radar with 500 km range), the MEKO-class frigate Psara (equipped with domestically developed "Centaur" anti-drone system), four F-16 Viper fighter jets, and a C-130 transport aircraft to Cyprus. Greek Reporter described this as a shift from "deterrence to defense," with the deployment marking active positioning rather than symbolic signaling.[^39][^44]
+**Translation summary:** Greece activated its Common Defense Doctrine with Cyprus for the first time in history, deploying the FDI HN frigate Kimon (32 vertical launch cells for Aster 30 missiles, Sea Fire radar with 500 km range), the MEKO-class frigate Psara (equipped with domestically developed "Centaur" anti-drone system), four F-16 Viper fighter jets, and a C-130 transport aircraft to Cyprus. Greek Reporter described this as a shift from "deterrence to defense," with the deployment marking active positioning rather than symbolic signaling.
 
 **Analyst note:** The Kimon's Aster 30 capability provides the only long-range naval air defense umbrella currently covering Cyprus, making this Greek deployment operationally critical to the multinational defense of the island.
 
 ### 7.c. Gulf States Intercept Iranian Drones and Missiles on 11 March
 
-**Source:** BBC Arabic (بي بي سي عربي), Arabic, 11 March 2026; Al Jazeera Arabic (الجزيرة), Arabic, 11 March 2026[^45][^1]
+**Source:** BBC Arabic (بي بي سي عربي), Arabic, 11 March 2026; Al Jazeera Arabic (الجزيرة), Arabic, 11 March 2026
 
 **Translation summary:** On 11 March, multiple Gulf states reported interceptions and impacts from Iranian attacks:
-- **Kuwait:** Intercepted 8 drones ("طائرات درون"); national security enhanced[^1]
-- **Saudi Arabia:** Destroyed 5 drones targeting the Shaybah oil field in the Empty Quarter; intercepted 2 additional drones in the Eastern Province[^45]
-- **UAE/Dubai:** 4 foreign nationals injured (2 Ghanaian, 1 Bangladeshi, 1 Indian) when drones fell near Dubai International Airport; air traffic continued[^45]
-- **Qatar:** Explosions heard, aerial interceptions seen over Doha; Qatar's FM stated Qatar cannot mediate while under attack[^45]
+- **Kuwait:** Intercepted 8 drones ("طائرات درون"); national security enhanced
+- **Saudi Arabia:** Destroyed 5 drones targeting the Shaybah oil field in the Empty Quarter; intercepted 2 additional drones in the Eastern Province
+- **UAE/Dubai:** 4 foreign nationals injured (2 Ghanaian, 1 Bangladeshi, 1 Indian) when drones fell near Dubai International Airport; air traffic continued
+- **Qatar:** Explosions heard, aerial interceptions seen over Doha; Qatar's FM stated Qatar cannot mediate while under attack
 
 **Analyst note:** Iran's expansion of attacks to Gulf states hosting US forces represents a significant widening of the conflict and directly threatens GCC air defense resources, potentially degrading the interceptor inventories of coalition partners.
 
 ### 7.d. Macron Announces French Hormuz Freedom-of-Navigation Mission
 
-**Source:** Opex360 (opex360.com), French, 9 March 2026; Anadolu Ajansı French service (AA), French, 9 March 2026[^5][^3]
+**Source:** Opex360 (opex360.com), French, 9 March 2026; Anadolu Ajansı French service (AA), French, 9 March 2026
 
-**Translation summary:** From the Charles de Gaulle, Macron announced France is preparing with European and non-European partners a "purely defensive" mission to reopen the Strait of Hormuz and escort merchant vessels "after the exit from the most intense phase of the conflict" ("après la sortie de la phase la plus chaude du conflit"). Macron also confirmed France would reinforce its EUNAVFOR Aspides contribution in the Red Sea with two frigates on a sustained basis.[^3][^5]
+**Translation summary:** From the Charles de Gaulle, Macron announced France is preparing with European and non-European partners a "purely defensive" mission to reopen the Strait of Hormuz and escort merchant vessels "after the exit from the most intense phase of the conflict" ("après la sortie de la phase la plus chaude du conflit"). Macron also confirmed France would reinforce its EUNAVFOR Aspides contribution in the Red Sea with two frigates on a sustained basis.
 
 **Analyst note:** France is positioning itself as the nucleus of a post-conflict maritime security architecture, distinct from the US combat operations. This may attract broad international participation given the universal interest in Hormuz transit freedom.
 
@@ -241,21 +241,21 @@ The 48-hour reporting period captures a theater-wide US and Allied military post
 
 ### 8.a. Al Jazeera Arabic: Questioning Whether Airpower Alone Can Defeat Iran
 
-**Source:** Al Jazeera Arabic (الجزيرة), Arabic, 10 March 2026[^46]
+**Source:** Al Jazeera Arabic (الجزيرة), Arabic, 10 March 2026
 
-**Summary:** Al Jazeera Arabic published an analytical piece examining whether Washington and Israel miscalculated by relying on air power alone, noting that historical precedent shows air campaigns have only succeeded when combined with ground operations. The analysis referenced US acknowledgment that 58% of Iranian missile launch sites had been destroyed but questioned whether this pace of degradation could compel Iranian surrender.[^46]
+**Summary:** Al Jazeera Arabic published an analytical piece examining whether Washington and Israel miscalculated by relying on air power alone, noting that historical precedent shows air campaigns have only succeeded when combined with ground operations. The analysis referenced US acknowledgment that 58% of Iranian missile launch sites had been destroyed but questioned whether this pace of degradation could compel Iranian surrender.
 
 ### 8.b. Anadolu Ajansı Turkish: Pentagon Acknowledges 140 US Troops Wounded, 7 Killed
 
-**Source:** Anadolu Ajansı (Anadolu Ajansı), Turkish, 10 March 2026[^28]
+**Source:** Anadolu Ajansı (Anadolu Ajansı), Turkish, 10 March 2026
 
-**Summary:** Anadolu reported, citing Pentagon spokesman Sean Parnell, that approximately 140 US service members have been wounded since Operation Epic Fury began on 28 February, with 8 seriously injured and 7 killed. The report contrasted these figures with Iranian claims of over 650 US casualties, noting the significant information gap.[^28]
+**Summary:** Anadolu reported, citing Pentagon spokesman Sean Parnell, that approximately 140 US service members have been wounded since Operation Epic Fury began on 28 February, with 8 seriously injured and 7 killed. The report contrasted these figures with Iranian claims of over 650 US casualties, noting the significant information gap.
 
 ### 8.c. IRGC Propaganda: Claims of Striking USS Abraham Lincoln
 
-**Source:** Al Mayadeen (الميادين), Arabic/Lebanese, 4-10 March 2026; Tasnim News Agency, Farsi, various dates[^47][^48]
+**Source:** Al Mayadeen (الميادين), Arabic/Lebanese, 4-10 March 2026; Tasnim News Agency, Farsi, various dates
 
-**Summary:** Iranian state and state-affiliated media, notably Al Mayadeen and Tasnim, amplified IRGC claims of striking the USS Abraham Lincoln carrier with ballistic missiles, forcing it to "flee" to the Indian Ocean. CENTCOM has repeatedly denied these claims, releasing imagery showing the Lincoln operating normally. Al Jazeera Arabic reported the IRGC claims are part of a broader "True Promise 4" narrative ("الوعد الصادق 4") designed for domestic morale. **[LIKELY PROPAGANDA]**[^48][^47]
+**Summary:** Iranian state and state-affiliated media, notably Al Mayadeen and Tasnim, amplified IRGC claims of striking the USS Abraham Lincoln carrier with ballistic missiles, forcing it to "flee" to the Indian Ocean. CENTCOM has repeatedly denied these claims, releasing imagery showing the Lincoln operating normally. Al Jazeera Arabic reported the IRGC claims are part of a broader "True Promise 4" narrative ("الوعد الصادق 4") designed for domestic morale. **[LIKELY PROPAGANDA]**
 
 ***
 
@@ -263,7 +263,7 @@ The 48-hour reporting period captures a theater-wide US and Allied military post
 
 1. **USS Abraham Lincoln (CVN-72) Current Position and Operational Status:** Non-English foreign reporting on the Lincoln's precise location in the Arabian Sea/Gulf of Oman is sparse and dominated by IRGC propaganda claims. Reliable non-English tracking of the Lincoln carrier strike group composition and current AOR within the last 48 hours is a critical gap.
 
-2. **French Submarine Operations:** Multiple French sources reference a nuclear attack submarine (SNA) accompanying the Charles de Gaulle group, but zero reporting exists on its identity, position, or operational tasking. Given the Hormuz mine threat, French submarine operations would be a high-value intelligence indicator.[^14]
+2. **French Submarine Operations:** Multiple French sources reference a nuclear attack submarine (SNA) accompanying the Charles de Gaulle group, but zero reporting exists on its identity, position, or operational tasking. Given the Hormuz mine threat, French submarine operations would be a high-value intelligence indicator.
 
 3. **ROK Force Posture Changes and USFK Asset Transfers:** While Yonhap Korean reported that USFK Patriot systems were relocated to the Middle East in 2025, current-period reporting on whether additional USFK assets (particularly missile defense or ISR platforms) have been drawn down for Operation Epic Fury is absent. This gap is critical for assessing Northeast Asian deterrence stability.
 
