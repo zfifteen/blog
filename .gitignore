@@ -1,2 +1,7 @@
 .idea/
 *.iml
+_site/
+.bundle/
+vendor/
+.jekyll-cache/
+.sass-cache/
