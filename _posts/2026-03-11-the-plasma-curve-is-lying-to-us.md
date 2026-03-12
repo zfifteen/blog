@@ -4,7 +4,7 @@ title: "The Plasma Curve Is Lying to Us"
 description: "Plasma antigen decline after COVID can reflect immune filtration, not reservoir clearance, with major consequences for Long COVID trial design."
 image: "/assets/longcovid-panel-04-card-preview.jpg"
 image_alt: "The Plasma Curve Is Lying to Us title card graphic"
-date: 2026-03-11
+date: 2026-03-11 22:39:39 -0400
 permalink: /2026-03-11/the-plasma-curve-is-lying-to-us/
 ---
 

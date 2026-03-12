@@ -4,7 +4,7 @@ title: "The Null Result That Wasn't"
 description: "A detailed critique of a 2026 Cell paper arguing that its SARS-CoV-2 conclusion overstates what a non-significant RELAX result can support."
 image: "/assets/1f1a002f-d5c2-49f1-9b0c-818a46cf9687-card-preview.jpg"
 image_alt: "The Null Result That Wasn't"
-date: 2026-03-11
+date: 2026-03-11 06:07:55 -0400
 permalink: /2026-03-11/the-null-result-that-wasnt/
 ---
 ![1f1a002f-d5c2-49f1-9b0c-818a46cf9687-card.jpg]({{ "/assets/1f1a002f-d5c2-49f1-9b0c-818a46cf9687-card.jpg" | relative_url }})

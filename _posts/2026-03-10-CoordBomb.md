@@ -4,7 +4,7 @@ description: "Private credit doesn't break on defaults — it breaks on queues a
 image: "/assets/cd5e6377-b213-4749-a47c-e9980eff7a0e-card-preview.jpg"
 image_alt: "Private Credit Coordination Bomb Thesis Graphic"
 layout: post
-date: 2026-03-10
+date: 2026-03-10 18:07:08 -0400
 permalink: /2026-03-10/CoordBomb/
 ---
 

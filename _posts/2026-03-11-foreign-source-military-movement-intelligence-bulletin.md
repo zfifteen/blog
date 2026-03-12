@@ -4,7 +4,7 @@ title: "FOREIGN-SOURCE MILITARY MOVEMENT INTELLIGENCE BULLETIN"
 description: "A 48-hour foreign-source OSINT military movement brief covering naval, air, and ground posture shifts during Operation Epic Fury."
 image: "/assets/foreign-source-military-movement-intelligence-bulletin-card-preview.jpg"
 image_alt: "Foreign-source military movement intelligence bulletin map and force posture graphic"
-date: 2026-03-11
+date: 2026-03-11 08:08:32 -0400
 permalink: /2026-03-11/foreign-source-military-movement-intelligence-bulletin/
 ---
 
