@@ -2,7 +2,7 @@
 layout: post
 title: "Hidden Cardiotoxic Effects of mRNA-1273 and BNT162b2"
 description: "Divergent cardiomyopathic mechanisms of mRNA-1273 and BNT162b2: a computational biology synthesis."
-image: "/assets/ee6da2d3-3150-4838-b431-7ecdcaee67ff-card.jpg"
+image: "/assets/ee6da2d3-3150-4838-b431-7ecdcaee67ff-card-preview.jpg"
 image_alt: "Hidden cardiotoxic effects: mRNA-1273 vs BNT162b2"
 date: 2026-03-11
 permalink: /2026-03-11/hidden-cardiotoxic-effects-mrna-vaccines/
