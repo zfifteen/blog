@@ -58,6 +58,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-gist
+  - jekyll-admin
   - jekyll-redirect-from
   - jekyll-readme-index        # lets README.md serve as homepage
   - jekyll-relative-links      # makes relative .md links work
@@ -127,6 +128,7 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
+  - tmp
   - .github
   - scripts
   - "*.sh"
