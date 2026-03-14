@@ -2,10 +2,10 @@
 title: The Snap-Back Signal
 ---
 
-## Conjecture:
+## Conjecture
 In evolving populations under sustained selection toward a higher level of biological organization, the recovery time of functional phenotypic variance after a standardized perturbation increases during the generations preceding successful transition events.
 
-***
+---
 
 ## Core Insight
 In populations evolving toward a fundamentally new level of biological organization, the time it takes for functional trait variation to bounce back after a sudden population crash is a measurable early warning that the transition is near.
@@ -16,51 +16,48 @@ What is non-obvious is that the signal is not the amount of variation itself but
 
 This matters because it means a population teetering on the edge of becoming multicellular, or crossing any equivalent threshold, is in a physically distinct dynamical state from one that is simply diverse or stressed.
 
-***
+---
 
 # Technical Note
 ## Variance Recovery Time as a Pre-Transition Signal in Major Evolutionary Transitions: Operationalizing Critical Slowing Down for Upward Organizational Shifts
+
 **Big D' | March 14, 2026**
 
 *Prepared as an extension of: Solé R, Kempes CP, Corominas-Murtra B, De Domenico M, Kolchinsky A, Lachmann M, Libby E, Saavedra S, Smith E, Wolpert D. 2024. Fundamental constraints to the logic of living systems. Interface Focus 14: 20240010. https://doi.org/10.1098/rsfs.2024.0010*
 
-***
+---
 
 ## 1. Motivation and Departure Point
 Prior work has proposed METs as analogous to phase transitions, with order parameters, symmetry breaking, and changes in organizational phase. That framing is compelling but largely static and conceptual. It does not provide an operational dynamical precursor that would allow experimenters to observe a population approaching a MET before the transition occurs.
 
 The conjecture here supplies that operational content.
 
-***
+---
 
 ## 2. The Core Mechanism: Critical Slowing Down Applied to Upward Transitions
 Critical slowing down (CSD) occurs when the restoring force that returns a system to its current attractor weakens. The system takes longer to recover from perturbations, so return times grow.
 
 CSD has been operationalized as an early warning signal for ecological regime shifts and collapse transitions. The extension here applies CSD to upward METs, where selection pressures push populations toward higher levels of organization.
 
-**Landscape geometry interpretation.**
+### Landscape geometry interpretation
 Downward regime shifts often involve loss of the current attractor: its basin contracts and the attractor disappears. Upward organizational transitions may instead involve gradual flattening of the stability landscape around the current organizational regime while a deeper attractor begins to form.
 
 If this geometry holds, elevated recovery time could appear both before the transition and for some interval after the first successful higher-level phenotype, while the new attractor basin consolidates. That asymmetry is a falsifiable secondary prediction.
 
-***
+---
 
 ## 3. The Observable Variable and Why It Is Non-Obvious
 Standard experimental-evolution metrics (sequence diversity, mean fitness, fitness variance at a single time point) are insufficient to detect approaching METs. A population with high diversity may be far from any transition. High fitness variance can be produced by strong directional selection. These snapshots describe state, not stability.
 
 The relevant observable is the **recovery time of functional phenotypic variance following a standardized perturbation**.
 
-Let:
-- V(t) be variance in a fitness-relevant trait measured across replicate lineages at generation t.
-- Impose a standardized perturbation (e.g., population bottleneck).
-- Let τ(t) be the number of generations required for V(t) to return to ≥90% of its pre-perturbation steady-state value.
-- Track τ(t) across generations.
+### Operational definitions
+- V(t): variance in a fitness-relevant trait measured across replicate lineages at generation t.
+- perturbation: a standardized disturbance applied repeatedly (e.g., population bottleneck).
+- τ(t): generations required for V(t) to return to ≥90% of its pre-perturbation steady-state value.
+- signal: a sustained rise in τ(t) before successful transition events.
 
-The conjecture predicts τ(t) increases in the generations preceding transition events.
-
-This is non-obvious because it depends on dynamic resilience: two populations can have similar diversity but very different recovery times.
-
-***
+---
 
 ## 4. Formal Structure
 Near a local attractor x₀, dynamics of small perturbations can be approximated by:
@@ -72,9 +69,7 @@ dx/dt = -λ (x - x₀)
 
 As upward selection pressure flattens stability around the current organizational regime, λ decreases and recovery time grows.
 
-This provides the operational interpretation: variance recovery time is a proxy for the inverse stability of the current organizational attractor.
-
-***
+---
 
 ## 5. Distinction from prior work
 - Ecological early warning signals: shared use of CSD signatures, but this targets upward organizational transitions.
@@ -82,7 +77,7 @@ This provides the operational interpretation: variance recovery time is a proxy 
 - Waddington canalization: within-organism developmental buffering; different scale.
 - Experimental evolution (e.g., LTEE): similar time scales but not analyzed for CSD, and lacks a probe for recovery time.
 
-***
+---
 
 ## 6. Operational test protocol (minimal)
 1. Run replicate populations under selection toward a higher organizational level.
@@ -90,7 +85,7 @@ This provides the operational interpretation: variance recovery time is a proxy 
 3. Measure V(t) for a functional trait and compute τ(t).
 4. Compare trajectories for populations that later transition vs those that do not.
 
-***
+---
 
 ## 7. Falsification conditions
 The conjecture is falsified if:
@@ -98,14 +93,14 @@ The conjecture is falsified if:
 - non-transitioning populations show equal or higher sustained τ(t).
 - τ(t) decreases or stays flat across the pre-transition window in multiple independent experiments.
 
-***
+---
 
 ## 8. Possible extension: somatic evolution and cancer
 Cancer progression is often described as an organizational transition within tissues. The conjecture suggests a speculative extension: a pre-malignant tissue could show the same dynamical signal (longer recovery time of functional trait variance after perturbation) prior to transformation.
 
 Testing would require accessible longitudinal data and standardized perturbations; this section is hypothesis generation, not evidence.
 
-***
+---
 
 ## 9. Scope and open problems
 This conjecture applies to populations under sustained selection pressure toward a higher level of biological organization where organizational states behave as attractor-like regimes in the evolutionary landscape.
